@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>539439743743-qscj8dtvk3s37ds1qg7pqgud9r3tl6qe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.539439743743-qscj8dtvk3s37ds1qg7pqgud9r3tl6qe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbHUlziOFTIt72OuJDBnlebVUZbouvhyo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>539439743743</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.wsu.MyMovies</string>
+	<key>PROJECT_ID</key>
+	<string>mymovies-db63d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mymovies-db63d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:539439743743:ios:bca6789dccb18e96</string>
+	<key>DATABASE_URL</key>
+	<string>https://mymovies-db63d.firebaseio.com</string>
+</dict>
+</plist>
